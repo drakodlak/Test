@@ -1,6 +1,13 @@
 Testovani
 
 
+if(1)
+{
+
+
+
+}
+
 Toto je novy zacetek
 
 aaaa
