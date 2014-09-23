@@ -1,3 +1,7 @@
 Testovani
 
+<<<<<<< HEAD
 123456789
+=======
+fkosd f fjksdfkds jfksdfjds
+>>>>>>> origin/master
