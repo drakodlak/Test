@@ -12,6 +12,9 @@ Toto je novy zacetek
 
 aaaa
 
+var a = 5;
+
+
 bbbb
 
 cccc
